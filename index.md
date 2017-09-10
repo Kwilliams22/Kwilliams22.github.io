@@ -2,8 +2,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+![image of emerald] (https://i.pinimg.com/originals/e1/41/2f/e1412fbf4b1ca5a60167fd336a83421e.jpg)
 ```markdown
 Syntax highlighted code block
 
