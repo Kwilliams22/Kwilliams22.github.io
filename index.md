@@ -17,7 +17,7 @@ here is where Samples of previous and current work will be placed as things prog
 > -Bruce Lee
 
 
-###### a few interests of mine with one being image based.
+##### a few interests of mine with one being image based.
 
 ![breakdancing](http://rs101.pbsrc.com/albums/m44/stinkybean4150/Air-RaveWindmillcombo.gif~c200)
 
@@ -25,7 +25,7 @@ Rollerskating, video games, music, and Cheesecake.
 
 
 
-####### Thats all for now till then
+###### Thats all for now till then
 
 
 
