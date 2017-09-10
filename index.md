@@ -1,15 +1,13 @@
 ## Welcome to the Project Zone
-
-### this probably not what I should have put here but this is my personality
-
-![image of emerald](https://i.pinimg.com/originals/e1/41/2f/e1412fbf4b1ca5a60167fd336a83421e.jpg)
+here is where Samples of previous and current work will be placed as things progress forward.
 
 
-As more work is done the more there will be here is this general area.
 
-so in the meant time heres a **_gif_**
 
-![breakdance](http://rs101.pbsrc.com/albums/m44/stinkybean4150/Air-RaveWindmillcombo.gif~c200)
+### Contact
+*Email: kwilliams220@student.alamo.edu
+
+
 
 
 
