@@ -14,7 +14,7 @@ here is where Samples of previous and current work will be placed as things prog
 #### A Quote 
 
 >I fear not the man who has practiced 10000 kicks once, but I fear the man who has practiced one kick 10000 times.
->- Bruce Lee
+> - Bruce Lee
 
 
 
