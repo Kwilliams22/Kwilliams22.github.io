@@ -1,6 +1,6 @@
 ## Welcome to the Project Zone
 
-### Markdown
+### this probably not what I should have put here but this is my personality
 
 ![image of emerald](https://i.pinimg.com/originals/e1/41/2f/e1412fbf4b1ca5a60167fd336a83421e.jpg)
 
