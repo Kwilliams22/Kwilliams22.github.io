@@ -5,7 +5,7 @@ here is where Samples of previous and current work will be placed as things prog
 
 
 ### Contact
-- Email: kwilliams220@student.alamo.edu
+- Email: kwilliams220@student.college.edu
 - Phone: not presented a this time. :secret:
  
  
