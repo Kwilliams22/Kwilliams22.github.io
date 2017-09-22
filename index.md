@@ -1,5 +1,5 @@
 ## Welcome to the Project Zone
-here is where Samples of previous and current work will be placed as things progress forward.
+ Kwilliams22.github.io/PowerStone2.md 
 
 
 
