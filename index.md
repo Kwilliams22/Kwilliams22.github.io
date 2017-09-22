@@ -1,5 +1,5 @@
 ## Welcome to the Project Zone
- [Link to Game Review!] (https://Kwilliams22.github.io/PowerStone2.md)
+ PowerStone2rev.md/Review.md 
 
 
 
