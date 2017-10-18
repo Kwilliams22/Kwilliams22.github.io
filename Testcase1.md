@@ -1,11 +1,11 @@
 # Test Case 
-nigga how????
+
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * alt 224 (α)
 * Test Case Name:
-  * #Number
+  * Missed jump
 * Component: 
   * Description
 * Test Case Designer:
