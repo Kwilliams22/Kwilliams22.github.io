@@ -7,7 +7,7 @@
 * Test Case Name:
   * load g
 * Component: 
-  *load game 
+  * load game 
 * Test Case Designer:
   * Zed
 * Creation Date:
