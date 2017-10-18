@@ -5,23 +5,23 @@
 * Test Case ID:
   * alt 224 (α)
 * Test Case Name:
-  * Missed jump
+  * jump
 * Component: 
-  * Description
+  * jump height
 * Test Case Designer:
-  * Name
+  * Zed
 * Creation Date:
-  * Date
+  * 10/25/2019
 * Modified By:
-  * Name
+  * Zod
 * Modified Date:
-  * Date
+  * 10/29/2019
 * Requirements Covered:
-  * Description
+  * jump same height four times consecutively 
 * Test Description/Purpose:
-  * Description
+  * make sure jump does not randomly increase in height without added momentum.
 * Pre-Test Conditions:
-  * Description
+  * do not move
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
