@@ -5,9 +5,9 @@
 * Test Case ID:
   * alt 224 (α)
 * Test Case Name:
-  * jump
+  * load g
 * Component: 
-  * jump height
+  *load game 
 * Test Case Designer:
   * Zed
 * Creation Date:
@@ -17,15 +17,15 @@
 * Modified Date:
   * 10/29/2019
 * Requirements Covered:
-  * jump same height four times consecutively 
+  * function
 * Test Description/Purpose:
-  * make sure jump does not randomly increase in height without added momentum.
+  * make sure load game is only available in story mode
 * Pre-Test Conditions:
-  * do not move
+  * start up game select story mode 
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |press x | 3 pixel height|√ |			
+| 1 |press any button | |√ |			
 | 2 | | | |			
 | 3 | | | |			
 | 4 | | | |			
