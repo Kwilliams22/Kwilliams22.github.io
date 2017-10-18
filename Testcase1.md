@@ -25,7 +25,7 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |press any button | |√ |			
+| 1 |press any button then select story| new load and save appear|√ |			
 | 2 | | | |			
 | 3 | | | |			
 | 4 | | | |			
