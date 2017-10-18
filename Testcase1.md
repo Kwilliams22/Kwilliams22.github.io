@@ -25,7 +25,7 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |press x | 3 pixel height| |			
+| 1 |press x | 3 pixel height|√ |			
 | 2 | | | |			
 | 3 | | | |			
 | 4 | | | |			
