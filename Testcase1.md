@@ -28,17 +28,11 @@
 | 1 |press any square then select story| new load and save appear|√ |			
 | 2 |press any circle then select story |new load and save appear|√ |			
 | 3 |press any triangle then select story |new load and save appear| |		
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+	
 
 ## Overall Test Status:
 
-
+sqaure and circle work fine for bringing up the selection menu triangle not so much 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
