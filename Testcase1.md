@@ -25,9 +25,9 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |press any button then select story| new load and save appear|√ |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 |press any square then select story| new load and save appear|√ |			
+| 2 |press any circle then select story |new load and save appear|√ |			
+| 3 |press any triangle then select story |new load and save appear|√ |		
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
