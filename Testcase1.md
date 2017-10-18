@@ -27,7 +27,7 @@
 | --- | --- | --- | --- |
 | 1 |press any square then select story| new load and save appear|√ |			
 | 2 |press any circle then select story |new load and save appear|√ |			
-| 3 |press any triangle then select story |new load and save appear|√ |		
+| 3 |press any triangle then select story |new load and save appear| |		
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
@@ -44,6 +44,6 @@
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 | 10/26/2019| zeed|pass |			
-| 2 | | | |			
-| 3 | | | |			
+| 2 | 10/27/2019| zoid |pass |			
+| 3 | 10/28/2019| zeff| pass|			
 
