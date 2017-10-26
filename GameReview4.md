@@ -1,27 +1,29 @@
 # Information
 ## Game Title
-Full title of the game.
+Disgaea 5: Alliance of Vengeance
 ## Game Type
-The genre and play style of the game
+tactical rpg
 ## Platform
-What systems do they play on besides the PC master race?
+ps4 nintendo switch
 ## Game Rating
-metacritic score 
+81%
 ## Publisher
-who released this pile of code
+Nippon Ichi Software/NIS America 
 ## Developer
-Who made this pile of code
+Nippon Ichi Software
 ## Publishing Date
-When did they make it?
+march 25, 2015 for ps4
 # Synopsis
-Game premise or short one to two sentence overview
+The evil demon emperor Void Dark devastates numerous Netherworlds after coming to power, with the help of an army of over one million soldiers known as The Lost. Following this, the Overlords of the Netherworlds under Void Dark's rule attempt to rise up and take revenge.
 
 # Game Play Summary
+a few new features compared to the earlier titles like a guage detailing resistance affiliation. otherwise it's the same select unit move it within its parameters or attack near by enemy unit. 
 ## Playability
+worth a few replays if you're the type who likes stra
 ### Single/Multiplayer
 ### Controls
 
 # Bugs
-What bugs happened during your critique.
+last enemy unit needed to clear the stage spawned underneath its set tile and was barely unreachable.
 # Final Thoughts
 One paragraph summary of your overall viewpoint of the game.
