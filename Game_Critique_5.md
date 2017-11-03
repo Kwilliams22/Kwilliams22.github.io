@@ -1,6 +1,5 @@
 # Information
-##Game Title
-place holder
+## Game Title
 Full title of the game.
 ## Game Type
 The genre and play style of the game
