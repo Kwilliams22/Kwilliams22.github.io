@@ -1,27 +1,30 @@
 # Information
 ## Game Title
-Full title of the game.
+Total War: Shogun 2
 ## Game Type
-The genre and play style of the game
+ Turn-based strategy and real-time tactics
 ## Platform
-What systems do they play on besides the PC master race?
+windows, Linux and OS X
 ## Game Rating
-metacritic score 
+metacritic score of 90
 ## Publisher
-who released this pile of code
+SEGA
 ## Developer
-Who made this pile of code
+ The Creative Assembly
 ## Publishing Date
-When did they make it?
+15th of march 2011
 # Synopsis
-Game premise or short one to two sentence overview
+As a sequel/remake of the very first game of the series, Shogun: Total War, the setting returns to Feudal Japan and the Sengoku Jidai period of civil war. Starting in the 1540s, the player takes control of one of the powerful clans struggling for superiority in Japan, with the eventual goal of uniting Japan under a new shogunate.
 
 # Game Play Summary
 ## Playability
+worth a few plays for each clan available.
 ### Single/Multiplayer
+has both 
 ### Controls
+there is an entire manual for this [here](http://support.feralinteractive.com/docs/en/shogun2tw/latest/steam/manual/#spread1)
 
 # Bugs
-What bugs happened during your critique.
+none that i'm aware of 
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+As much as I consider myself a smart individual I know I am not a Strategiest. This genre is usually challenging for me in ways I dislike heavily. Still a good game to get you thinking on how you use rescources. Also how to be careful of your placements of units 
