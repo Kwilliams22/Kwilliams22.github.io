@@ -1,27 +1,33 @@
 # Information
 ## Game Title
-Full title of the game.
+Sonic Shuffle
 ## Game Type
-The genre and play style of the game
+party
 ## Platform
-What systems do they play on besides the PC master race?
+Sega Dreamcast 
 ## Game Rating
-metacritic score 
+metacritic score 54
 ## Publisher
-who released this pile of code
+Sega
 ## Developer
-Who made this pile of code
+Sonic Team/Hudson Soft
 ## Publishing Date
-When did they make it?
+November 14, 2000
 # Synopsis
-Game premise or short one to two sentence overview
+race to collect the pieces of a jewel called the precious stone. person with the most number of pieces wins the game board.
 
 # Game Play Summary
+similar to mario party but instead of dice cards are used.
 ## Playability
+I replay it from time to time
 ### Single/Multiplayer
+both modes are available
 ### Controls
+a to selecet 
+b to cancel start to pause 
+y to look acorss the map
 
 # Bugs
-What bugs happened during your critique.
+one minigame called an accident on the nature stage is impossible to win humanly it seems.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+It's a small nostalgia thing for me but i enjoy playing it from time to time. a lot less infuriating than any mario party game in my opinion.
