@@ -21,7 +21,7 @@ Kingdom Hearts χ is a prequel to the Kingdom Hearts series as a whole, taking p
 ### Single/Multiplayer
 single with a multiplayer feature called union cross where you play in real time with up to 5 other users of the app.
 ### Controls
-
+tap the screen to move activate special attacks by swipping the medals you have equiped while having the minimum gauge cost requirement. 
 # Bugs
 There are times where you may complete a quest/mission in the union cross mode and it wont trigger the ending sequence and you'll be trapped in that level untill you quit.
 # Final Thoughts
